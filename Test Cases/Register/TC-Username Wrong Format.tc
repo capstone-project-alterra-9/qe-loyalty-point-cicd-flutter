@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Username Wrong Format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccb807f7-470b-45d5-aada-707e64b2854c</testCaseGuid>
+</TestCaseEntity>
